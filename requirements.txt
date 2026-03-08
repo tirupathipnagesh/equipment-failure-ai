@@ -13,3 +13,5 @@ xgboost
 shap
 pytest
 httpx
+psycopg2-binary
+sqlalchemy
